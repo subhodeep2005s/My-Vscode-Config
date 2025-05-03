@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "poimandres",
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "afterDelay",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "launch": {
+        "configurations": [
+        
+        ]
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.statusBar.visible": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "explorer.confirmDelete": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "phase",
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top"
+}
